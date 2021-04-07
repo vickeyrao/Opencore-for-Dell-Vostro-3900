@@ -1,5 +1,5 @@
 # Opencore-for-Dell-Vostro-3900
-Opencore for Dell Vostro 3900
+[Opencore](https://github.com/acidanthera/OpenCorePkg) for Dell Vostro 3900
 
 * 电脑配置/Technical Detail
 
