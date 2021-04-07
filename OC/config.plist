@@ -1103,9 +1103,9 @@
 			<key>SystemProductName</key>
 			<string>iMac15,1</string>
 			<key>SystemSerialNumber</key>
-			<string>FFFFFFFFFFFF</string>
+			<string>W00000000001</string>
 			<key>SystemUUID</key>
-			<string>FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF</string>
+			<string>00000000-0000-0000-0000-000000000000</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
